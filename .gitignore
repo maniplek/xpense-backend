@@ -128,9 +128,4 @@ Control.ca-bundle
 Control.system-ca-bundle 
 GitHub.sublime-settings 
 
-# Visual Studio Code # 
-.history
-temp_auto_push.bat
-temp_interactive_push.bat
-.gitignore
-branch_structure.json
+.vscode/
